@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>土区地平线4购入教程</title>
+      <link href="/2022/101563362.html"/>
+      <url>/2022/101563362.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="如何成为土耳其人？"><a href="#如何成为土耳其人？" class="headerlink" title="如何成为土耳其人？"></a>如何成为土耳其人？</h2><p>准备材料</p><ul><li>一个有土耳其节点的加速器(个人使用的是小黑盒加速器) <img src="/2022/101563362/2.png" class="">加速土耳其即可</li><li>注册土耳其账号可以去<a href="https://www.baizhan.net/a/1658714217776090.html">这里</a><br>如果没有或者嫌麻烦可以去<a href="taobao.com">淘宝</a>购买一个账号(推荐)<br>建议先更改邮箱和密码</li><li>注册成功后去<a href="https://www.taobao.com/">淘宝</a>买一个土耳其的充值卡大约60里拉20块左右<img src="/2022/101563362/4.png" class="">购买我就不多赘述了  </li><li>共享到国区账号<img src="/2022/101563362/5.png" class="">  选择你要共享的账号<h2 id="返回到国区账号就可以玩了"><a href="#返回到国区账号就可以玩了" class="headerlink" title="返回到国区账号就可以玩了"></a>返回到国区账号就可以玩了</h2>注意事项:土耳其账号必须要有至少1个土耳其好友，否则会VAC封禁  </li></ul><p>注意在注册账号开始必须一直开着加速器中间不能中断</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 如何在土耳其购买地平线4? </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>服务器命令</title>
+      <link href="/2022/101416107.html"/>
+      <url>/2022/101416107.html</url>
+      
+        <content type="html"><![CDATA[<p>鹿多了容易忘事，当个记事簿。</p><h2 id="启动项"><a href="#启动项" class="headerlink" title="启动项"></a>启动项</h2><h3 id="启动服务器"><a href="#启动服务器" class="headerlink" title="启动服务器"></a>启动服务器</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><h3 id="清除缓存"><a href="#清除缓存" class="headerlink" title="清除缓存"></a>清除缓存</h3><pre class=" language-bash"><code class="language-bash">$ hexo clean</code></pre><h3 id="创建静态网页"><a href="#创建静态网页" class="headerlink" title="创建静态网页"></a>创建静态网页</h3><pre class=" language-bash"><code class="language-bash">$ hexo g</code></pre><h3 id="数据上传云端"><a href="#数据上传云端" class="headerlink" title="数据上传云端"></a>数据上传云端</h3><pre class=" language-bash"><code class="language-bash">$ hexo d</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
